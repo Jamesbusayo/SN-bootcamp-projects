@@ -1,2 +1,1 @@
-# SN-bootcamp-projects
-Sales Prediction Using Machine Learning
+# SN-bootcamp Sales Prediction Using Machine Learning project
